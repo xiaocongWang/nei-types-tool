@@ -26,6 +26,6 @@
     "dts-dom": "^3.3.0",
     "event-stream": "^4.0.1",
     "jsonc-type": "0.0.3",
-    "urllib": "^2.34.0"
+    "urllib": "^2.38.1"
   }
 }
